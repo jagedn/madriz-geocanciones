@@ -17,9 +17,13 @@ la latitud es 40.419992 y la longitud es-3.6909257
 
 Añades una linea
 
-`8;La Puerta de Alcalá;Ana Belén;40.419992;-3.6909257; https://open.spotify.com/track/29opVIw8I1BOZntEn3Un2I`
+`La Puerta de Alcalá;Ana Belén;40.419992;-3.6909257; https://open.spotify.com/track/29opVIw8I1BOZntEn3Un2I`
 
-(Preferiblemente Spotify al menos por ahora)
+- Nombre de la canción ; Autor; Latitud ; Longitud; enlace a la canción
+
+- Vamos a usar el punto y coma como separador porque hay títulos que usan la coma pero no creo que haya ninguno que use el punto y coma
+
+- Preferiblemente en enlace a la canción será de Spotify al menos por ahora. *Recuerda quitar el código de rastero que añade por defecto al final*)
 
 - Creas una PR (pull request) hacia este repositorio para que se mergee junto con los cambios de la demás gente
 
